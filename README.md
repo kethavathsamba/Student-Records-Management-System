@@ -29,7 +29,7 @@ The **Student Records Management System** is a Python-based application that pro
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/student-records-management.git
+   git clone https://github.com/kethavathsamba/student-records-management.git
    cd student-records-management
    ```
 
